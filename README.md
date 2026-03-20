@@ -120,13 +120,5 @@ Java와 Spring 기반으로
 
 ## 📫 Contact
 
-- Email: your-email@example.com
-- GitHub: https://github.com/여기에본인아이디
-
----
-
-## ✨ Pinned Repository 추천
-- 팀 프로젝트 백엔드 저장소
-- 리액트 리팩토링 저장소
-- 미니 프로젝트 저장소
-- SQL / 알고리즘 / 학습 정리 저장소
+- Email: seongjun3262@gmail.com
+- GitHub: https://github.com/Numpad73192846

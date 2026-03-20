@@ -1,14 +1,14 @@
-# 백엔드 개발자를 준비 중인 정성준입니다.
+<p align="center">
+  <img src="헤더이미지주소" alt="header" width="100%" />
+</p>
 
-Java와 Spring 기반으로  
-사용자 흐름을 고려한 웹 서비스를 만드는 것을 좋아합니다.
-
-- JWT / OAuth2 기반 인증 구조 학습 및 구현
-- 예약 / 결제 / 게시판 / 파일 업로드 등 실서비스 기능 구현 경험
-- MyBatis, Oracle SQL, REST API 중심 백엔드 개발
-- 팀 프로젝트를 통해 협업, 역할 분담, 발표 경험 축적
+# 백엔드 개발자 정성준입니다 👋
+사용자 흐름을 고려한 웹 서비스를 만들고,  
+인증 · 예약 · 결제 같은 핵심 로직을 구현하는 데 관심이 있습니다.
 
 ---
+
+## 🚀 Main Projects
 
 ## 🚀 Projects
 
@@ -51,15 +51,6 @@ Java와 Spring 기반으로
 
 ---
 
-## 🙋 About Me
-
-- 풀스택 개발자로 취업 준비 중이며, 백엔드 개발 역량을 중심으로 성장하고 있습니다.
-- 단순 구현보다 **왜 이렇게 설계하는지**를 이해하는 방식으로 공부합니다.
-- 프로젝트를 진행하며 인증, 예약 충돌 검증, 결제 처리, 파일 처리, 게시판 기능 등을 직접 구현했습니다.
-- 협업 과정에서 문서화, 발표 준비, 기능 설명까지 함께 경험했습니다.
-
----
-
 ## 🛠 Tech Stack
 
 ### Backend
@@ -88,25 +79,9 @@ Java와 Spring 기반으로
 
 ---
 
-## 🧩 Troubleshooting
-
-### JWT 인증 흐름 이해
-처음에는 토큰 검증 이후 인증 정보가 어디에 저장되고 어떻게 사용되는지 헷갈렸지만,  
-필터 → SecurityContext → Controller 흐름을 정리하면서 요청 단위 인증 구조를 이해하게 되었습니다.
-
-### 예약 충돌 검증
-예약 기능은 화면에서만 막으면 충분하다고 생각했지만,  
-실제로는 서버에서 한 번 더 검증해야 데이터 무결성을 보장할 수 있다는 점을 배웠습니다.
-
-### Git 협업 경험
-브랜치 병합 과정에서 코드 충돌과 손상 문제를 겪으며,  
-기능 단위 커밋과 역할 분리, 머지 전 확인 과정의 중요성을 체감했습니다.
-
----
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numpad73192846&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numpad73192846&show_icons=true) <br >
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Numpad73192846&layout=compact)
 
 ---

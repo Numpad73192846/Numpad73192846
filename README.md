@@ -10,6 +10,47 @@ Java와 Spring 기반으로
 
 ---
 
+## 🚀 Projects
+
+### 🥇 튜터링고 - 튜터/튜티 매칭 플랫폼
+> Spring Boot 기반 예약/결제/인증 통합 서비스
+
+- **기간**: 3주 / 4인 팀 프로젝트
+- **기술**: Spring Boot, MyBatis, JWT, OAuth2, Toss Payments
+- **담당**
+  - JWT 인증 필터 및 인증 흐름 구현
+  - 예약 시간 충돌 검증 로직 구현
+  - 결제 완료 후 예약 상태 변경 처리
+
+👉 **핵심 포인트**
+- JwtAuthenticationFilter → SecurityContext 인증 흐름 직접 구현
+- 서버에서 예약 충돌 검증 (클라이언트 의존 X)
+- 결제 이후 상태 변경 트랜잭션 처리
+
+👉 **Repository**
+- https://github.com/너아이디/레포
+
+---
+
+### 🥈 맛조아 - 맛집 리뷰 플랫폼
+> JSP/Servlet 기반 CRUD 중심 웹 서비스
+
+- **기간**: 10일 / 3인 팀 프로젝트
+- **기술**: JSP, Servlet, MySQL
+- **담당**
+  - 로그인 / 회원가입 구현
+  - ERD 설계 및 DB 구조 정의
+  - 게시글/리뷰 기능 일부 수정 및 연동
+
+👉 **핵심 포인트**
+- 사용자/가게/게시글 관계 설계
+- DAO 구조 기반 데이터 처리 구현
+
+👉 **Repository**
+- https://github.com/너아이디/레포
+
+---
+
 ## 🙋 About Me
 
 - 풀스택 개발자로 취업 준비 중이며, 백엔드 개발 역량을 중심으로 성장하고 있습니다.
@@ -44,54 +85,6 @@ Java와 Spring 기반으로
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
----
-
-## 📌 Projects
-
-### 1. 맛조아 - 맛집 리뷰 플랫폼
-- **기간**: 10일
-- **인원**: 3인 팀 프로젝트
-- **기술 스택**: JSP / Servlet / MySQL / Tomcat
-- **담당 역할**
-  - 로그인 / 회원가입 기능 구현
-  - ERD 설계 및 DB 구조 정리
-  - 사용자 / 가게 / 게시글 관계 설계
-  - 일부 게시판/리뷰 기능 수정 및 연동 보완
-
-**프로젝트 설명**  
-사용자가 음식 카테고리를 기준으로 맛집을 탐색하고 리뷰를 남길 수 있는 플랫폼입니다.
-
-**배운 점**
-- 테이블 관계 설계와 정규화의 중요성
-- DAO / Service 분리 구조의 필요성
-- 실제 기능 구현에서 SQL과 백엔드 로직이 어떻게 연결되는지 경험
-
----
-
-### 2. 튜터링고 - 튜터/튜티 매칭 플랫폼
-- **기간**: 3주
-- **인원**: 4인 팀 프로젝트
-- **기술 스택**: Spring Boot / MyBatis / Spring Security / JWT / OAuth2 / Toss Payments / OpenAI API
-- **담당 역할**
-  - JWT 인증 필터 및 인증 흐름 구현
-  - 튜터 마이페이지 기능 구현
-  - 예약 시간 검증 로직 구현
-  - 결제 완료 후 예약 상태 변경 트랜잭션 처리
-
-**프로젝트 설명**  
-튜터와 튜티를 연결하고, 수업 예약 및 결제까지 관리할 수 있는 서비스입니다.
-
-**핵심 구현**
-- `JwtAuthenticationFilter`를 통한 토큰 검증 및 `SecurityContext` 인증 정보 저장
-- 예약 이동/변경 시 서버에서 시간 충돌과 과거 시간 여부 재검증
-- Toss 결제 완료 후 예약 상태 반영
-- OAuth2 소셜 로그인과 JWT 인증 구조 적용
-
-**배운 점**
-- 인증은 단순 로그인 기능이 아니라 요청 흐름 전체와 연결된다는 점
-- 클라이언트 검증만으로는 부족하고 서버 검증이 필수라는 점
-- 협업 시 기능 구현만큼 문서화와 의사소통도 중요하다는 점
 
 ---
 

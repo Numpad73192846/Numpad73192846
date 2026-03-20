@@ -113,8 +113,8 @@ Java와 Spring 기반으로
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=여기에본인아이디&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=여기에본인아이디&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Numpad73192846&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Numpad73192846&layout=compact)
 
 ---
 

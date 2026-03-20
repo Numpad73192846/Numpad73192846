@@ -28,7 +28,7 @@ Java와 Spring 기반으로
 - 결제 이후 상태 변경 트랜잭션 처리
 
 👉 **Repository**
-- https://github.com/너아이디/레포
+- https://github.com/Numpad73192846/MSA15_Project.git
 
 ---
 
@@ -47,7 +47,7 @@ Java와 Spring 기반으로
 - DAO 구조 기반 데이터 처리 구현
 
 👉 **Repository**
-- https://github.com/너아이디/레포
+- https://github.com/passtal/MSA15_Mini1
 
 ---
 

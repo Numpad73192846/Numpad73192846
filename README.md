@@ -13,53 +13,21 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>튜터링고</h3>
-      <p>튜터/튜티 매칭 및 예약·결제 플랫폼</p>
-      <p><b>Tech</b><br/>
-      Spring Boot · MyBatis · Spring Security · JWT · OAuth2 · Toss Payments
-      </p>
-
-      <p><b>What I did</b></p>
-      <ul>
-        <li>JWT 인증 필터 및 인증 흐름 구현</li>
-        <li>SecurityContext 기반 인증 정보 처리 구조 설계</li>
-        <li>예약 시간 충돌 서버 검증 로직 구현</li>
-        <li>결제 완료 후 예약 상태 변경 트랜잭션 처리</li>
-      </ul>
-
-      <p><b>Key Point</b></p>
-      <ul>
-        <li>JwtAuthenticationFilter → SecurityContext 인증 흐름 직접 구현</li>
-        <li>클라이언트 의존 없이 서버에서 예약 무결성 검증</li>
-        <li>결제 이후 상태 일관성을 유지하는 로직 설계</li>
-      </ul>
-
-      👉 <a href="https://github.com/Numpad73192846/MSA15_Project">Repository 바로가기</a>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/Numpad73192846/MSA15_Project">튜터링고</a></h3>
+      <p>튜터/튜티 매칭 및 예약 · 결제 플랫폼</p>
+      <p><b>⏱ 3주</b> · <b>👨‍👩‍👧‍👦 4인 팀 프로젝트</b></p>
+      <a href="https://github.com/Numpad73192846/MSA15_Project">
+        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
-
-    <td width="50%">
-      <h3>맛조아</h3>
-      <p>맛집 리뷰 플랫폼</p>
-      <p><b>Tech</b><br/>
-      JSP · Servlet · MySQL · Tomcat
-      </p>
-
-      <p><b>What I did</b></p>
-      <ul>
-        <li>로그인 / 회원가입 기능 구현</li>
-        <li>ERD 설계 및 DB 구조 정의</li>
-        <li>사용자·가게·게시글 관계 설계</li>
-        <li>게시글 및 리뷰 기능 일부 수정 및 연동</li>
-      </ul>
-
-      <p><b>Key Point</b></p>
-      <ul>
-        <li>DAO 구조 기반 데이터 처리 구현</li>
-        <li>정규화된 DB 설계를 통한 데이터 관계 구성</li>
-      </ul>
-
-      👉 <a href="https://github.com/passtal/MSA15_Mini1">Repository 바로가기</a>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/passtal/MSA15_Mini1">맛조아</a></h3>
+      <p>음식 카테고리 기반 맛집 리뷰 플랫폼</p>
+      <p><b>⏱ 10일</b> · <b>👨‍👩‍👧 3인 팀 프로젝트</b></p>
+      <a href="https://github.com/passtal/MSA15_Mini1">
+        <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>

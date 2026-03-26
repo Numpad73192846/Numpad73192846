@@ -101,5 +101,5 @@
 
 ## Contact
 
-- Email: your-email@example.com
+- Email: seongjun3262@gmail.com
 - GitHub: https://github.com/Numpad73192846

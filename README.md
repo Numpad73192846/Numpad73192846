@@ -5,6 +5,8 @@
 
 아래 프로젝트에서 실제 구현 내용을 확인하실 수 있습니다.
 
+[![Notion 포트폴리오](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/31e3a3532d918013a1b6fa509d501a34?source=copy_link)
+
 <br/>
 
 ---

@@ -35,7 +35,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/passtal/MSA15_Mini1">맛조아</a>
+        <a href="https://github.com/passtal/MSA15_Mini1">맛좋은테이블</a>
       </h3>
       <p>음식 카테고리를 기반으로 맛집 탐색과 리뷰 작성을 제공하는 플랫폼</p>
       <p><strong>기간</strong> | 10일</p>
